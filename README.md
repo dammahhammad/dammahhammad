@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Mohammad Hammad</h1>
 <h3 align="center">A passionate .Net developer from India</h3>
 
