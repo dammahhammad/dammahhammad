@@ -1,15 +1,14 @@
-<h1 align="center">Hi 👋, I'm Mohammad Hammad</h1>
-<h3 align="center">A passionate .Net developer from India</h3>
+<h1 align="center">Hi 👋, I'm M. Hammad</h1>
+<h3 align="center">A passionate product developer</h3>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **OAuth & Security**
 
 - 👨‍💻 All of my projects are available at [https://imhammad.com](https://imhammad.com/)
 
 - 📝 I regularly write articles on [https://dammahhammad.medium.com/](https://dammahhammad.medium.com/)
-
-- 💬 Ask me about **C#, .Net MVC**
-
-- 📫 How to reach me **dammahhammad9@gmail.com**
+ 
+- 📫 Got a question or project idea? Drop me a message at dammahhammad9@gmail.com
+ or hit up the contact form on my website — I’ll get back to you within 24 hours (promise, pinky swear 🤞).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
