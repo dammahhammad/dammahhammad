@@ -7,8 +7,8 @@
 
 - 📝 I regularly write articles on [https://dammahhammad.medium.com/](https://dammahhammad.medium.com/)
  
-- 📫 Got a question or project idea? Drop me a message at dammahhammad9@gmail.com
- or hit up the contact form on my website — I’ll get back to you within 24 hours (promise, pinky swear 🤞).
+- 📫 Got a question or project idea? You can totally email me at dammahhammad9@gmail.com
+, but honestly… my inbox is a jungle. The contact form on my website? That’s where messages actually get seen (plus, you get to explore the site — win-win 😎).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
