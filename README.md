@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available at [https://dammahhammad.azurewebsites.net/](https://dammahhammad.azurewebsites.net/)
+- 👨‍💻 All of my projects are available at [https://imhammad.com](https://imhammad.com/)
 
 - 📝 I regularly write articles on [https://dammahhammad.medium.com/](https://dammahhammad.medium.com/)
 
